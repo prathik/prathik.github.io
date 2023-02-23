@@ -27,7 +27,13 @@ Principal Engineer @ Gojek
 
 ## Amazon (2017-2018)
 
+* Worked on P2P Buying Experience
+* Worked on Longtail (niche product) discovery via Amazon Search
+
 ## InMobi (2012-2017)
+
+* Worked in the Reporting and Analytics team (data pipes and surfacing it to business users)
+* Worked in building billing solution for InMobi (on salesforce)
 
 # Education
 
